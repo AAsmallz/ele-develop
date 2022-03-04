@@ -1,0 +1,48 @@
+Arguments: 
+  D:\Program Files\Node\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @rollup/plugin-alias
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\Program Files\Node\;D:\Program Files\git\Git\cmd;D:\Program Files\git\Git\mingw64\bin;D:\Program Files\git\Git\usr\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;F:\Xftp\;F:\Xshell\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\DELL\.dotnet\tools;D:\Programs\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\DELL\AppData\Roaming\npm;;D:\Program Files\APICloud\APICloud Studio 3\bin
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  14.17.6
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\DELL\AppData\Local\Yarn\Cache\v6\npm-ansi-styles-3.2.1-41fbb20243e50b12be0f04b8dedbf07520ce841d-integrity\node_modules\ansi-styles\package.json' -> 'D:\Web\projectsDemo\1-eleDemo\ele_webfont\node_modules\@babel\highlight\node_modules\ansi-styles\package.json'
+
+npm manifest: 
+  {
+    "name": "ele_webfont",
+    "version": "0.0.0",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "serve": "vite preview"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "vant": "^3.2.8",
+      "vue": "^3.2.16",
+      "vue-router": "^4.0.12",
+      "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-vue": "^1.9.3",
+      "@vue/compiler-sfc": "^3.0.5",
+      "sass": "^1.43.4",
+      "vite": "^2.6.4",
+      "vite-plugin-imp": "^2.0.9"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
